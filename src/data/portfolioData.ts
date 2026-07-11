@@ -4,9 +4,9 @@ export const profile = {
   roles: ["AI Engineer", "Full Stack Developer", "MLOps Learner"],
   location: "Sri Lanka",
   email: "methuldev@gmail.com",
-  github: "https://github.com/methul-sasrutha",
+  github: "https://github.com/Methulsas",
   githubUsername: "methul-sasrutha",
-  linkedin: "https://linkedin.com/in/methulsasrutha",
+  linkedin: "www.linkedin.com/in/methul-sasrutha-1721a33b7",
   instagram: "https://instagram.com/methulsasrutha",
   resumeUrl: "#",
 };
