@@ -127,7 +127,7 @@ export default function Hero() {
               style={{ background: "radial-gradient(circle, var(--accent), transparent 70%)" }}
             />
             <img
-              src="public/images/1780196431012_1_-removebg-preview.png"
+              src="images/1780196431012_1_-removebg-preview.png"
               alt="Methul Sasrutha"
               className="relative z-10 h-full w-full object-contain drop-shadow-[0_0_40px_rgba(var(--glow),0.5)]"
             />
