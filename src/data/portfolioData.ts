@@ -5,7 +5,7 @@ export const profile = {
   location: "Sri Lanka",
   email: "methuldev@gmail.com",
   github: "https://github.com/Methulsas",
-  githubUsername: "methul-sasrutha",
+  githubUsername: "Methulsas",
   linkedin: "www.linkedin.com/in/methul-sasrutha-1721a33b7",
   instagram: "https://instagram.com/methulsasrutha",
   resumeUrl: "#",
