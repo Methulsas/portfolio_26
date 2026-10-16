@@ -196,7 +196,7 @@ export const liveStats = [
 export const chatbotKnowledge: { keywords: string[]; answer: string }[] = [
   {
     keywords: ["hello", "hi", "hey"],
-    answer: "Hey there 👋 I'm Methul's AI assistant. Ask me about his projects, skills, or how to reach him!",
+    answer: "Hey there I'm Methul's AI assistant. Ask me about his projects, skills, or how to reach him!",
   },
   {
     keywords: ["about", "who", "methul"],
